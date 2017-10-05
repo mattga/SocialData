@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;Hashtags&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../.." />
+      <root url="file://$PROJECT_DIR$/../../../playground" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <excluded>
+      <root url="file://$PROJECT_DIR$/.idea" />
+      <root url="file://$PROJECT_DIR$/../../ChimeraCoder/tokenbucket/.git" />
+      <root url="file://$PROJECT_DIR$/../MissionariesCannibals/.idea" />
+      <root url="file://$PROJECT_DIR$/../../../playground/.idea" />
+      <root url="file://$PROJECT_DIR$/../../azr/backoff/.git" />
+      <root url="file://$PROJECT_DIR$/../.idea" />
+      <root url="file://$PROJECT_DIR$/../../dustin/gojson/testdata" />
+      <root url="file://$PROJECT_DIR$/../../dustin/gojson/.git" />
+      <root url="file://$PROJECT_DIR$/../../tools/godep/.git" />
+      <root url="file://$PROJECT_DIR$/../../Workiva/go-datastructures/.git" />
+      <root url="file://$PROJECT_DIR$/../../garyburd/go-oauth/.git" />
+      <root url="file://$PROJECT_DIR$/Config" />
+      <root url="file://$PROJECT_DIR$/../../Workiva/go-datastructures/btree/_link" />
+      <root url="file://$PROJECT_DIR$/../../ChimeraCoder/anaconda/.git" />
+      <root url="file://$PROJECT_DIR$/../../tools/godep/Godeps/_workspace" />
+      <root url="file://$PROJECT_DIR$/../../dustin/go-jsonpointer/testdata" />
+      <root url="file://$PROJECT_DIR$/../../dustin/go-jsonpointer/.git" />
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
