@@ -12,10 +12,9 @@ import (
 )
 
 func main() {
-	anaconda.SetConsumerKey("T8oZpeNJ9bqjl62fAleqqBgiN")
-	anaconda.SetConsumerSecret("ZcYgeiajlD4YAyEQKtzcpPvug4fJQgw46Kco5Fo5JOVdiOvcuv")
-	api := anaconda.NewTwitterApi("2482651142-y15LpqOtK4b2pzSvn48bG9crAPznJ5gk46iT2S0",
-		"ug7YwxNJYuU5iG0v0BhKYXZsldFYTQLSGXa962LSA4C4c")
+	anaconda.SetConsumerKey(<twitter key>)
+	anaconda.SetConsumerSecret(<twitter secret>)
+	api := anaconda.NewTwitterApi(<>,<>)
 	api.EnableThrottling(15*time.Minute/180, 10000) // 180 Queries / 15 Min
 
 	for _, hashtag := range Conf.Hashtags {
